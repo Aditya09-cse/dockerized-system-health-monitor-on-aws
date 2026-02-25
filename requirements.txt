@@ -1,0 +1,5 @@
+# to runn this app.py 
+# you need flask and psutil
+
+flask
+psutil	
